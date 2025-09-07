@@ -7,3 +7,7 @@ def circle_area(radius):
 # rectangle.py
 def rectangle_area(length, width):
     return length * width
+
+class ahmtr:
+    def __init__(self):
+        self.name = 'ahmed'
