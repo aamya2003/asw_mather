@@ -2,9 +2,8 @@ name: Upload Python Package
 
 on:
   push:
-    tags:
-      - 'v0.0.3'   # يشتغل فقط لما تسوي Tag يبدأ بـ v (مثلاً v0.1.1)
-
+    branches:
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
