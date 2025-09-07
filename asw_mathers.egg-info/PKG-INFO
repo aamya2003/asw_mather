@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: asw-mathers
-Version: 0.1.0
+Version: 0.1.6
 Summary: A simple math helper library
 Author-email: Ahmed <your_email@example.com>
 License: 
@@ -35,4 +35,4 @@ It provides utility functions and classes to perform basic math operations.
 
 ## Installation
 ```bash
-pip install asw_mather
+pip install asw_mathers

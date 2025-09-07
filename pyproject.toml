@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "asw-mathers"            # اسم المكتبة (لازم يكون فريد في PyPI)
-version = "0.1.6"              # الإصدار الأول
+version = "0.1.7"              # الإصدار الأول
 description = "A simple math helper library"
 authors = [
   { name="Ahmed", email="your_email@example.com" }

@@ -5,4 +5,4 @@ It provides utility functions and classes to perform basic math operations.
 
 ## Installation
 ```bash
-pip install asw_mather
+pip install asw_mathers
